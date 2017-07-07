@@ -1,6 +1,6 @@
 <?php
 
-require_once(dirname(__FILE__).'/../all.php');
+require_once(dirname(__FILE__).'/../public_html/panel/all.php');
 
 
 Class Recommender{

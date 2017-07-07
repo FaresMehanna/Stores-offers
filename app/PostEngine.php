@@ -1,7 +1,7 @@
 <?php
 
 //include all the pages
-require_once(dirname(__FILE__).'/../all.php');
+require_once(dirname(__FILE__).'/../public_html/panel/all.php');
 
 class PostEngine{
 
