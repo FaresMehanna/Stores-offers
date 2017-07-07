@@ -2,7 +2,7 @@
 
 
 
-### Features
+### Features :
 
 * Web application allow stores to put their offers on given items.
 * OOP.
